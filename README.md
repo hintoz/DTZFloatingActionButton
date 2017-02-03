@@ -7,7 +7,7 @@
 
 Floating button for your ios app in swift.
 
-![screenshot2](./Images/UIView.png) ![screenshot2](./Images/UITableView.png)
+<img width="45%" src="./Images/UIView.png" alt="UIView" title="UIView"</img> <img width="45%" src="./Images/UITableView.png" alt="UITableView" title="UITableView"</img>
 
 ## Requirements
 * iOS 9.0+
