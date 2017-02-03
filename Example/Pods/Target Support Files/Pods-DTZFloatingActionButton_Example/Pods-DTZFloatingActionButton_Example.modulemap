@@ -1,0 +1,6 @@
+framework module Pods_DTZFloatingActionButton_Example {
+  umbrella header "Pods-DTZFloatingActionButton_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

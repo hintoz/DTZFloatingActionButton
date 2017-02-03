@@ -1,0 +1,16 @@
+PODS:
+  - DTZFloatingActionButton (0.1.0)
+
+DEPENDENCIES:
+  - DTZFloatingActionButton (from `../`)
+
+EXTERNAL SOURCES:
+  DTZFloatingActionButton:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DTZFloatingActionButton: d78f23b5a7164576882081c2f4eeca09e3772a8b
+
+PODFILE CHECKSUM: 688826b25a46946d4de34f98d666145b19968c01
+
+COCOAPODS: 1.2.0

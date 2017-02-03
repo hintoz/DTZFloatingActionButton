@@ -1,0 +1,6 @@
+framework module DTZFloatingActionButton {
+  umbrella header "DTZFloatingActionButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

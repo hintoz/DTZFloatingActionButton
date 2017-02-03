@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DTZFloatingActionButton_Example' do
+  pod 'DTZFloatingActionButton', :path => '../'
+
+  target 'DTZFloatingActionButton_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

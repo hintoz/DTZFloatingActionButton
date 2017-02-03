@@ -1,0 +1,22 @@
+{
+  "name": "DTZFloatingActionButton",
+  "version": "0.1.0",
+  "summary": "A short description of DTZFloatingActionButton.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hintoz/DTZFloatingActionButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hintoz": "hintoz@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/hintoz/DTZFloatingActionButton.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DTZFloatingActionButton/Classes/**/*"
+}
