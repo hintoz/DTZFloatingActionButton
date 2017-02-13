@@ -7,7 +7,7 @@
 
 Floating button for your ios app in swift.
 
-<img width="45%" src="./Images/UIView.png" alt="UIView" title="UIView"</img> <img width="45%" src="./Images/UITableView.png" alt="UITableView" title="UITableView"</img>
+<img width="35%" border=0.5 src="./Images/UIView.png" alt="UIView" title="UIView"</img> <img width="35%" border=0.5 src="./Images/UITableView.png" alt="UITableView" title="UITableView"</img>
 
 ## Requirements
 * iOS 9.0+
@@ -25,6 +25,15 @@ pod "DTZFloatingActionButton"
 To install manually the DTZFloatingActionButton in an app, just drag the `DTZFloatingActionButton/Classes/*.swift` file into your project.
 
 ## Usage
+### As Manager in UIWindow
+#### Swift
+```swift
+DTZFABManager.shared.button().handler = {
+    button in
+    print("Tapped")
+}
+DTZFABManager.shared.show()
+```
 ### In UIView
 #### Swift
 ```swift
@@ -42,7 +51,7 @@ let actionButton = DTZFloatingActionButton()
 let actionButton = DTZFloatingActionButton()
         actionButton.handler = {
             button in
-            self.performSegue(withIdentifier: "tableViewSegue", sender: nil)
+            print("Hi!")
         }
         actionButton.isScrollView = true
         self.view.addSubview(actionButton)

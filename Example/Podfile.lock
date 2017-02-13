@@ -1,5 +1,5 @@
 PODS:
-  - DTZFloatingActionButton (0.1.0)
+  - DTZFloatingActionButton (0.2.0)
 
 DEPENDENCIES:
   - DTZFloatingActionButton (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  DTZFloatingActionButton: d78f23b5a7164576882081c2f4eeca09e3772a8b
+  DTZFloatingActionButton: fe83183266de20923d72e6181cc1d2f4ef9a7138
 
-PODFILE CHECKSUM: 688826b25a46946d4de34f98d666145b19968c01
+PODFILE CHECKSUM: a561ceed505201168639618728512639f8d9edcc
 
 COCOAPODS: 1.2.0
