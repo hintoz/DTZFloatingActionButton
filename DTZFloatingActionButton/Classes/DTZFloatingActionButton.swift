@@ -140,6 +140,7 @@ open class DTZFloatingActionButton: UIView {
         circleLayer.frame = CGRect(x: 0, y: 0, width: size, height: size)
         circleLayer.backgroundColor = buttonColor.cgColor
         circleLayer.cornerRadius = size / 2
+        layer.zPosition = 1
         layer.addSublayer(circleLayer)
     }
     
