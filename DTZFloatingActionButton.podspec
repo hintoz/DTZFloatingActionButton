@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DTZFloatingActionButton'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'Floating Action Button for iOS'
 
 # This description is used to generate tags and improve search results.
@@ -26,9 +26,9 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'hintoz' => 'hintoz@gmail.com' }
   s.source           = { :git => 'https://github.com/hintoz/DTZFloatingActionButton.git', :tag => s.version.to_s }
-  s.social_media_url = 'https://twitter.com/hintoz'
+  s.social_media_url = 'https://github.com/hintoz'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '9.0'
 
   s.source_files = 'DTZFloatingActionButton/Classes/**/*'
   
