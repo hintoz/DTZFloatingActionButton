@@ -10,7 +10,7 @@ import UIKit
 
 open class DTZFABManager {
     
-    static open let shared = DTZFABManager()
+    static public let shared = DTZFABManager()
     
     private init() {}
     

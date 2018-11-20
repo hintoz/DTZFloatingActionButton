@@ -33,17 +33,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0FB2D8AD745E82B0A4B8F86A100FDAA9 /* DTZFloatingActionButton.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = DTZFloatingActionButton.framework; path = DTZFloatingActionButton.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		154F233982CCF605C23E8C3EF0BE6E3D /* Pods_DTZFloatingActionButton_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_DTZFloatingActionButton_Tests.framework; path = "Pods-DTZFloatingActionButton_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0FB2D8AD745E82B0A4B8F86A100FDAA9 /* DTZFloatingActionButton.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DTZFloatingActionButton.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		154F233982CCF605C23E8C3EF0BE6E3D /* Pods_DTZFloatingActionButton_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DTZFloatingActionButton_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D2D2BA01CDFC0363466CE2D348793C8 /* DTZFloatingActionButton-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DTZFloatingActionButton-prefix.pch"; sourceTree = "<group>"; };
 		1E71DB32CEB2B005FE7C4936D941F7E9 /* Pods-DTZFloatingActionButton_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DTZFloatingActionButton_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		21B604F4985B5EF40ED30E0ED19BACBF /* DTZFloatingActionButton.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DTZFloatingActionButton.xcconfig; sourceTree = "<group>"; };
 		311FDFDD7EB9EA87E3AACDFEC8763223 /* Pods-DTZFloatingActionButton_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DTZFloatingActionButton_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		34C0502D189A914CB095263414330AF3 /* Pods-DTZFloatingActionButton_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DTZFloatingActionButton_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		3E8701A47C499A774751B3A96D50B9B8 /* Pods-DTZFloatingActionButton_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DTZFloatingActionButton_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		4CF2432227E1FD3672E9645F8D456F26 /* DTZFloatingActionButton.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = DTZFloatingActionButton.modulemap; sourceTree = "<group>"; };
+		4CF2432227E1FD3672E9645F8D456F26 /* DTZFloatingActionButton.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = DTZFloatingActionButton.modulemap; sourceTree = "<group>"; };
 		55DEBEFA6A494DD1C6608F5EC5ED3FB9 /* Pods-DTZFloatingActionButton_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-DTZFloatingActionButton_Tests-umbrella.h"; sourceTree = "<group>"; };
-		56615E95044E4A1B240D07E2381D0C6E /* Pods-DTZFloatingActionButton_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-DTZFloatingActionButton_Example.modulemap"; sourceTree = "<group>"; };
+		56615E95044E4A1B240D07E2381D0C6E /* Pods-DTZFloatingActionButton_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-DTZFloatingActionButton_Example.modulemap"; sourceTree = "<group>"; };
 		5824E2C746283F779B38563B795F9EB4 /* Pods-DTZFloatingActionButton_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DTZFloatingActionButton_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		5910E833DDAEEE8D9D162756BC4EBDB3 /* Pods-DTZFloatingActionButton_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DTZFloatingActionButton_Example-frameworks.sh"; sourceTree = "<group>"; };
 		5D3A9E1863CA3B00EE89D2BECAF6E2C1 /* Pods-DTZFloatingActionButton_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DTZFloatingActionButton_Tests-resources.sh"; sourceTree = "<group>"; };
@@ -56,16 +56,16 @@
 		887A8E4C8259D06538DE8663E3898F87 /* DTZFloatingActionButton.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = DTZFloatingActionButton.swift; sourceTree = "<group>"; };
 		8D35083D5B3801B0B0A5CAB3CAECD9E2 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8F450ADC2C856617BFE0079EC631525C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B1A0F15A7AB72E45C0ACB823CE329462 /* Pods-DTZFloatingActionButton_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DTZFloatingActionButton_Example-dummy.m"; sourceTree = "<group>"; };
 		B735CCD46E77CB117C348EC69A0A1954 /* DTZFloatingActionButton-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "DTZFloatingActionButton-dummy.m"; sourceTree = "<group>"; };
-		C27BC9EB37826AF9CD1D3DC8D9803A15 /* Pods_DTZFloatingActionButton_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_DTZFloatingActionButton_Example.framework; path = "Pods-DTZFloatingActionButton_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C27BC9EB37826AF9CD1D3DC8D9803A15 /* Pods_DTZFloatingActionButton_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DTZFloatingActionButton_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		CBBEAEBBDAC8CD122AA06B80E8FFFA0F /* Pods-DTZFloatingActionButton_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DTZFloatingActionButton_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		DC51094C79C05ACDA5976F5031A999C1 /* Pods-DTZFloatingActionButton_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DTZFloatingActionButton_Tests-dummy.m"; sourceTree = "<group>"; };
 		DC5DCDE859399BBD0FEF807F7514FD3F /* Pods-DTZFloatingActionButton_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DTZFloatingActionButton_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		E710A014B15D5254CFBA1E49574170EA /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E84B731FB9D709EE8B6C504CB59212FD /* Pods-DTZFloatingActionButton_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-DTZFloatingActionButton_Tests.modulemap"; sourceTree = "<group>"; };
+		E84B731FB9D709EE8B6C504CB59212FD /* Pods-DTZFloatingActionButton_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-DTZFloatingActionButton_Tests.modulemap"; sourceTree = "<group>"; };
 		EE05D234B2DB03B60C7CB0C4CA5F8F30 /* DTZFloatingActionButton-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DTZFloatingActionButton-umbrella.h"; sourceTree = "<group>"; };
 		F8F3D2CE9B05D694865B951F7F5139B3 /* DTZFABManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = DTZFABManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -116,7 +116,6 @@
 				687D3A5174708E8A6E42950983539363 /* DTZFABWindow.swift */,
 				887A8E4C8259D06538DE8663E3898F87 /* DTZFloatingActionButton.swift */,
 			);
-			name = Classes;
 			path = Classes;
 			sourceTree = "<group>";
 		};
@@ -171,7 +170,6 @@
 			children = (
 				4BB7EB7E28A1562A73FE4EE38D4B5FD9 /* Classes */,
 			);
-			name = DTZFloatingActionButton;
 			path = DTZFloatingActionButton;
 			sourceTree = "<group>";
 		};
@@ -490,7 +488,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -592,7 +590,7 @@
 				PRODUCT_NAME = DTZFloatingActionButton;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
